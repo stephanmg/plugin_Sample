@@ -1,8 +1,6 @@
 ################################################################################
 # SAMPLE
 #
-# created by Sebastian Reiter
-#
 # This script shows how easy it is to add a build script for your plugins.
 # Simply specify the plugins name and a list of your source files.
 ################################################################################

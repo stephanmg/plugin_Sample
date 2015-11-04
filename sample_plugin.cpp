@@ -1,7 +1,3 @@
-// created by Sebastian Reiter
-// s.b.reiter@googlemail.com
-// 12.09.2011 (m,d,y)
-
 #include "bridge/util.h"
 
 // replace this with util_domain_dependent.h or util_algebra_dependent.h
